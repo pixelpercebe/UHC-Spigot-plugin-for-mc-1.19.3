@@ -1,0 +1,7 @@
+name: PluginUHC
+version: '${project.version}'
+main: percebe.uhc.pluginuhc.PluginUHC
+api-version: 1.19
+load: POSTWORLD
+authors: [ Percebe ]
+description: Plugin to turn your minecraft server into UHC using tools to edit some game properties and create custom events.
